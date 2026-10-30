@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWEgUGhhcm1hY2llIiwia2luZCI6IlVQREFURSIsInZlcnNpb24iOiIxLjMuMTEiLCJmaWxlX25hbWUiOiJNYVBoYXJtYWNpZS1TZXR1cC0xLjMuMTEuZXhlIiwic2hhMjU2IjoiMmVhODBhMjE5N2Q2MjU4ODU3ODAzNzBjNDJkMTkyMTQwZDNhMjU2MTk1YzU0Yjg2Y2RjNzNhMjA2Zjk5ZWRiZCIsInNpemUiOjExNTg4NjY4NCwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21haGZvdWRoYTA5MS9tYXBoYXJtYWNpZS1yZWxlYXNlcy9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjExL01hUGhhcm1hY2llLVNldHVwLTEuMy4xMS5leGUiLCJub3RlcyI6IiIsInB1Ymxpc2hlZF9hdCI6IjIwMjYtMTAtMThUMTY6NTI6MDIuMDk2WiJ9.H82IDfPMzq1_zYbd0PQeHzbS-I1-kYUZrJPsS5Ub3nx273u7MVdEqEi__bcfxQ3ACPPp5QjbXnOrJUYArO0uCA",
+  "token": "eyJwcm9ncmFtIjoiTWEgUGhhcm1hY2llIiwia2luZCI6IlVQREFURSIsInZlcnNpb24iOiIxLjQuMCIsImZpbGVfbmFtZSI6Ik1hUGhhcm1hY2llLVNldHVwLTEuNC4wLmV4ZSIsInNoYTI1NiI6IjQ4NTU2MDRkOTQ1OGNkNzJjMjYzZDVlOTUyYWFjZDM4ZDNlYmM3Mzg4OGMxZjdmMzE5ZWI4MTIzZmNiZjg5ZTgiLCJzaXplIjoxMTU4NzQyNzUsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWFwaGFybWFjaWUtcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjEuNC4wL01hUGhhcm1hY2llLVNldHVwLTEuNC4wLmV4ZSIsIm5vdGVzIjoi2KfYttin2YHYqSDYqNi52LYg2KfZhNmF2YrYstin2KogIiwicHVibGlzaGVkX2F0IjoiMjAyNi0xMC0zMFQxMTozMjowMi42NjJaIn0.aOswH0Abli_2LANChaOC1DYTAINdL6oxhJHYwI-qkGA6C3YDmGv5SboZ8U_EqFw8-O2SIwcKjSr2rWlmDsf7Aw",
   "program": "Ma Pharmacie",
   "kind": "UPDATE",
-  "version": "1.3.11",
-  "file_name": "MaPharmacie-Setup-1.3.11.exe",
-  "sha256": "2ea80a2197d625885780370c42d192140d3a256195c54b86cdc73a206f99edbd",
-  "size": 115886684,
-  "url": "https://github.com/mahfoudha091/mapharmacie-releases/releases/download/v1.3.11/MaPharmacie-Setup-1.3.11.exe",
-  "notes": "",
-  "published_at": "2026-10-18T16:52:02.096Z"
+  "version": "1.4.0",
+  "file_name": "MaPharmacie-Setup-1.4.0.exe",
+  "sha256": "4855604d9458cd72c263d5e952aacd38d3ebc73888c1f7f319eb8123fcbf89e8",
+  "size": 115874275,
+  "url": "https://github.com/mahfoudha091/mapharmacie-releases/releases/download/v1.4.0/MaPharmacie-Setup-1.4.0.exe",
+  "notes": "اضافة بعض الميزات ",
+  "published_at": "2026-10-30T11:32:02.662Z"
 }

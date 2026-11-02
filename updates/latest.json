@@ -1,12 +1,12 @@
 {
-  "token": "eyJwcm9ncmFtIjoiTWEgUGhhcm1hY2llIiwia2luZCI6IlVQREFURSIsInZlcnNpb24iOiIxLjQuMCIsImZpbGVfbmFtZSI6Ik1hUGhhcm1hY2llLVNldHVwLTEuNC4wLmV4ZSIsInNoYTI1NiI6IjQ4NTU2MDRkOTQ1OGNkNzJjMjYzZDVlOTUyYWFjZDM4ZDNlYmM3Mzg4OGMxZjdmMzE5ZWI4MTIzZmNiZjg5ZTgiLCJzaXplIjoxMTU4NzQyNzUsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWFwaGFybWFjaWUtcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjEuNC4wL01hUGhhcm1hY2llLVNldHVwLTEuNC4wLmV4ZSIsIm5vdGVzIjoi2KfYttin2YHYqSDYqNi52LYg2KfZhNmF2YrYstin2KogIiwicHVibGlzaGVkX2F0IjoiMjAyNi0xMC0zMFQxMTozMjowMi42NjJaIn0.aOswH0Abli_2LANChaOC1DYTAINdL6oxhJHYwI-qkGA6C3YDmGv5SboZ8U_EqFw8-O2SIwcKjSr2rWlmDsf7Aw",
+  "token": "eyJwcm9ncmFtIjoiTWEgUGhhcm1hY2llIiwia2luZCI6IlVQREFURSIsInZlcnNpb24iOiIxLjQuMSIsImZpbGVfbmFtZSI6Ik1hUGhhcm1hY2llLVNldHVwLTEuNC4xLmV4ZSIsInNoYTI1NiI6ImZlOGJiMThkM2JkZmJlMjE1NzAwZTQ5YzMyYmRhOGQ0MDY1ZTc3ODY5MGM1NmQzMTVjY2RlODk2NTBmMDc1YmYiLCJzaXplIjoxMTU4NjIxNjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWhmb3VkaGEwOTEvbWFwaGFybWFjaWUtcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvdjEuNC4xL01hUGhhcm1hY2llLVNldHVwLTEuNC4xLmV4ZSIsIm5vdGVzIjoi2KfZhNmG2LPYrtipINin2YTYp9mI2YTZiSBMVFMgIiwicHVibGlzaGVkX2F0IjoiMjAyNi0xMS0wMlQxOTo1OToxOS4wODBaIn0.D_vteS-3o-qzSGTg6bNoY3Wmgi_LxeAGh37EuMgmzPl6m2Oxkhn9D-ypslaTU2omfIYCNx-yLSFhhADFF7j3Bw",
   "program": "Ma Pharmacie",
   "kind": "UPDATE",
-  "version": "1.4.0",
-  "file_name": "MaPharmacie-Setup-1.4.0.exe",
-  "sha256": "4855604d9458cd72c263d5e952aacd38d3ebc73888c1f7f319eb8123fcbf89e8",
-  "size": 115874275,
-  "url": "https://github.com/mahfoudha091/mapharmacie-releases/releases/download/v1.4.0/MaPharmacie-Setup-1.4.0.exe",
-  "notes": "اضافة بعض الميزات ",
-  "published_at": "2026-10-30T11:32:02.662Z"
+  "version": "1.4.1",
+  "file_name": "MaPharmacie-Setup-1.4.1.exe",
+  "sha256": "fe8bb18d3bdfbe215700e49c32bda8d4065e778690c56d315ccde89650f075bf",
+  "size": 115862161,
+  "url": "https://github.com/mahfoudha091/mapharmacie-releases/releases/download/v1.4.1/MaPharmacie-Setup-1.4.1.exe",
+  "notes": "النسخة الاولى LTS ",
+  "published_at": "2026-11-02T19:59:19.080Z"
 }
